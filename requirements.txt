@@ -3,7 +3,6 @@ streamlit
 spacy
 urllib3
 bs4
-operator
 HTMLParser
 unicodedata2
 pandas
