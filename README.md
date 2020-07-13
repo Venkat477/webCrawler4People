@@ -6,8 +6,8 @@ You have a company name and it has some employee organizational chart who are wo
 This is a web crawler, which takes a URL as an input and provide people information to the user. Below are the details you can get.
 
 ***1. Person Name <br />
-2. Person Email Address
-***
+2. Person Email Address***
+
 Using this service, you can extract most of the people names and email address if provided in the site.
 
 When we got the domain, will search for only pages which will have the employee information like staff, leadership, team etc.. Based on it, by applying different NLP technoques and Spacy NLP language models will try to extract all the people information.
