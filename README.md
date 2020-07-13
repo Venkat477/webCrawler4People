@@ -23,4 +23,4 @@ One can develop any sort of extraction logic using above steps.
 
 **Programming Language:** Python3.7
 
-Test the webapp using the given link (https://simplewebcrawler.herokuapp.com/)
+Test the webapp using the given link (https://webcrawler4people.herokuapp.com/)
